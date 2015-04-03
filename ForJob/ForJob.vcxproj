@@ -76,7 +76,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MicroSoft2015\2015.10-1.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.10-p1.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.4-p2.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.4-p1.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.4-p3.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.4-p4.cpp" />
     <ClCompile Include="MicroSoft2015\hiho1086.cpp" />
     <ClCompile Include="MicroSoft2015\hiho1095.cpp" />
     <ClCompile Include="test.cpp" />

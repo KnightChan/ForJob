@@ -21,13 +21,25 @@
     <ClCompile Include="test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MicroSoft2015\2015.10-1.cpp">
-      <Filter>Source Files\MicroSoft</Filter>
-    </ClCompile>
     <ClCompile Include="MicroSoft2015\hiho1086.cpp">
       <Filter>Source Files\MicroSoft</Filter>
     </ClCompile>
     <ClCompile Include="MicroSoft2015\hiho1095.cpp">
+      <Filter>Source Files\MicroSoft</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroSoft2015\2015.10-p1.cpp">
+      <Filter>Source Files\MicroSoft</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroSoft2015\2015.4-p2.cpp">
+      <Filter>Source Files\MicroSoft</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroSoft2015\2015.4-p1.cpp">
+      <Filter>Source Files\MicroSoft</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroSoft2015\2015.4-p3.cpp">
+      <Filter>Source Files\MicroSoft</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroSoft2015\2015.4-p4.cpp">
       <Filter>Source Files\MicroSoft</Filter>
     </ClCompile>
   </ItemGroup>

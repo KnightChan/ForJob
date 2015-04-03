@@ -21,7 +21,7 @@ bool tryT(int t, int *d, int n)
 	return false;
 }
 
-int main()
+int main1095()
 {
 	int N, K;
 	cin >> N >> K;
