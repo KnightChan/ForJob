@@ -76,6 +76,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MicroSoft2015\2015.10-1.cpp" />
+    <ClCompile Include="MicroSoft2015\hiho1086.cpp" />
+    <ClCompile Include="MicroSoft2015\hiho1095.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

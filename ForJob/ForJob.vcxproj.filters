@@ -13,10 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\MicroSoft">
+      <UniqueIdentifier>{341c0456-7b82-4707-b292-9547b015863d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroSoft2015\2015.10-1.cpp">
+      <Filter>Source Files\MicroSoft</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroSoft2015\hiho1086.cpp">
+      <Filter>Source Files\MicroSoft</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroSoft2015\hiho1095.cpp">
+      <Filter>Source Files\MicroSoft</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
