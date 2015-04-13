@@ -16,6 +16,9 @@
     <Filter Include="Source Files\MicroSoft">
       <UniqueIdentifier>{341c0456-7b82-4707-b292-9547b015863d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\splunk15intern">
+      <UniqueIdentifier>{e02e11d6-b9d8-4a84-b4c1-883b9397d97d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -41,6 +44,12 @@
     </ClCompile>
     <ClCompile Include="MicroSoft2015\2015.4-p4.cpp">
       <Filter>Source Files\MicroSoft</Filter>
+    </ClCompile>
+    <ClCompile Include="equal count.cpp">
+      <Filter>Source Files\splunk15intern</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>Source Files\splunk15intern</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

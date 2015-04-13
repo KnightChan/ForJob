@@ -76,6 +76,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2.cpp" />
+    <ClCompile Include="equal count.cpp" />
     <ClCompile Include="MicroSoft2015\2015.10-p1.cpp" />
     <ClCompile Include="MicroSoft2015\2015.4-p2.cpp" />
     <ClCompile Include="MicroSoft2015\2015.4-p1.cpp" />
