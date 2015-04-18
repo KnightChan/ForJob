@@ -19,6 +19,9 @@
     <Filter Include="Source Files\splunk15intern">
       <UniqueIdentifier>{e02e11d6-b9d8-4a84-b4c1-883b9397d97d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\编程之美2015">
+      <UniqueIdentifier>{bbf0c17e-77f6-4d60-aa0c-40a2798839c7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="2.cpp">
       <Filter>Source Files\splunk15intern</Filter>
+    </ClCompile>
+    <ClCompile Include="资格赛1.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="资格赛2.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

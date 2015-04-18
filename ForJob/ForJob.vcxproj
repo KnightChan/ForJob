@@ -86,6 +86,8 @@
     <ClCompile Include="MicroSoft2015\hiho1086.cpp" />
     <ClCompile Include="MicroSoft2015\hiho1095.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="资格赛1.cpp" />
+    <ClCompile Include="资格赛2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
