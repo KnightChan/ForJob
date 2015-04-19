@@ -22,6 +22,9 @@
     <Filter Include="Source Files\编程之美2015">
       <UniqueIdentifier>{bbf0c17e-77f6-4d60-aa0c-40a2798839c7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Baidu">
+      <UniqueIdentifier>{5c42869f-9fbd-4db9-9d38-180ad7e6a664}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -59,6 +62,21 @@
     </ClCompile>
     <ClCompile Include="资格赛2.cpp">
       <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="testbd.cpp">
+      <Filter>Source Files\Baidu</Filter>
+    </ClCompile>
+    <ClCompile Include="baidu2015intern1.cpp">
+      <Filter>Source Files\Baidu</Filter>
+    </ClCompile>
+    <ClCompile Include="baidu2015intern2.cpp">
+      <Filter>Source Files\Baidu</Filter>
+    </ClCompile>
+    <ClCompile Include="baidu2015internAdd1.cpp">
+      <Filter>Source Files\Baidu</Filter>
+    </ClCompile>
+    <ClCompile Include="baidu2015internAdd2.cpp">
+      <Filter>Source Files\Baidu</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

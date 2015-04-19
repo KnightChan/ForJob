@@ -77,6 +77,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2.cpp" />
+    <ClCompile Include="baidu2015intern1.cpp" />
+    <ClCompile Include="baidu2015intern2.cpp" />
+    <ClCompile Include="baidu2015internAdd1.cpp" />
+    <ClCompile Include="baidu2015internAdd2.cpp" />
     <ClCompile Include="equal count.cpp" />
     <ClCompile Include="MicroSoft2015\2015.10-p1.cpp" />
     <ClCompile Include="MicroSoft2015\2015.4-p2.cpp" />
@@ -86,6 +90,7 @@
     <ClCompile Include="MicroSoft2015\hiho1086.cpp" />
     <ClCompile Include="MicroSoft2015\hiho1095.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="testbd.cpp" />
     <ClCompile Include="资格赛1.cpp" />
     <ClCompile Include="资格赛2.cpp" />
   </ItemGroup>
