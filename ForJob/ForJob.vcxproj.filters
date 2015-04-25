@@ -87,5 +87,14 @@
     <ClCompile Include="初赛2.cpp">
       <Filter>Source Files\编程之美2015</Filter>
     </ClCompile>
+    <ClCompile Include="初赛1-1 AC代码.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛1-2 AC代码.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛1-3 AC代码.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
