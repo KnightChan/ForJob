@@ -78,5 +78,14 @@
     <ClCompile Include="baidu2015internAdd2.cpp">
       <Filter>Source Files\Baidu</Filter>
     </ClCompile>
+    <ClCompile Include="初赛1.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛3.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛2.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

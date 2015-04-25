@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main()
+int main_baiduintern2015add2()
 {
 	int T;
 	cin >> T;

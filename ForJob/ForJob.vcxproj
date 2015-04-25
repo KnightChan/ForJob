@@ -91,6 +91,9 @@
     <ClCompile Include="MicroSoft2015\hiho1095.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="testbd.cpp" />
+    <ClCompile Include="初赛1.cpp" />
+    <ClCompile Include="初赛2.cpp" />
+    <ClCompile Include="初赛3.cpp" />
     <ClCompile Include="资格赛1.cpp" />
     <ClCompile Include="资格赛2.cpp" />
   </ItemGroup>
