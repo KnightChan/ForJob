@@ -91,9 +91,15 @@
     <ClCompile Include="MicroSoft2015\hiho1095.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="testbd.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="TX1_20150906.cpp" />
     <ClCompile Include="TX2_20150906.cpp" />
     <ClCompile Include="TX3_20150906.cpp" />
+=======
+    <ClCompile Include="初赛1-1 AC代码.cpp" />
+    <ClCompile Include="初赛1-2 AC代码.cpp" />
+    <ClCompile Include="初赛1-3 AC代码.cpp" />
+>>>>>>> origin/master
     <ClCompile Include="初赛1.cpp" />
     <ClCompile Include="初赛2.cpp" />
     <ClCompile Include="初赛3.cpp" />

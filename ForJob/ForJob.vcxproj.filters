@@ -90,6 +90,7 @@
     <ClCompile Include="初赛2.cpp">
       <Filter>Source Files\编程之美2015</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="TX1_20150906.cpp">
       <Filter>Source Files\腾讯2016校招在线笔试</Filter>
     </ClCompile>
@@ -98,6 +99,16 @@
     </ClCompile>
     <ClCompile Include="TX3_20150906.cpp">
       <Filter>Source Files\腾讯2016校招在线笔试</Filter>
+=======
+    <ClCompile Include="初赛1-1 AC代码.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛1-2 AC代码.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛1-3 AC代码.cpp">
+      <Filter>Source Files\编程之美2015</Filter>
+>>>>>>> origin/master
     </ClCompile>
   </ItemGroup>
 </Project>
