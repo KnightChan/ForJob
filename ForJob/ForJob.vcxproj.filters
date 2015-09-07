@@ -25,6 +25,9 @@
     <Filter Include="Source Files\Baidu">
       <UniqueIdentifier>{5c42869f-9fbd-4db9-9d38-180ad7e6a664}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\腾讯2016校招在线笔试">
+      <UniqueIdentifier>{fbe2a312-1732-4b9f-a9a8-798bdf2f0493}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -86,6 +89,15 @@
     </ClCompile>
     <ClCompile Include="初赛2.cpp">
       <Filter>Source Files\编程之美2015</Filter>
+    </ClCompile>
+    <ClCompile Include="TX1_20150906.cpp">
+      <Filter>Source Files\腾讯2016校招在线笔试</Filter>
+    </ClCompile>
+    <ClCompile Include="TX2_20150906.cpp">
+      <Filter>Source Files\腾讯2016校招在线笔试</Filter>
+    </ClCompile>
+    <ClCompile Include="TX3_20150906.cpp">
+      <Filter>Source Files\腾讯2016校招在线笔试</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
