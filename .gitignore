@@ -52,3 +52,5 @@ ForJob.sdf
 *.vcxproj
 *.filters
 >>>>>>> origin/master
+*.suo
+*.sdf
