@@ -1,114 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
-    </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-    <Filter Include="Source Files\MicroSoft">
-      <UniqueIdentifier>{341c0456-7b82-4707-b292-9547b015863d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\splunk15intern">
-      <UniqueIdentifier>{e02e11d6-b9d8-4a84-b4c1-883b9397d97d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\编程之美2015">
-      <UniqueIdentifier>{bbf0c17e-77f6-4d60-aa0c-40a2798839c7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Baidu">
-      <UniqueIdentifier>{5c42869f-9fbd-4db9-9d38-180ad7e6a664}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\腾讯2016校招在线笔试">
-      <UniqueIdentifier>{fbe2a312-1732-4b9f-a9a8-798bdf2f0493}</UniqueIdentifier>
-    </Filter>
+    <ClCompile Include="baidu2015intern1.cpp" />
+    <ClCompile Include="baidu2015intern2.cpp" />
+    <ClCompile Include="baidu2015internAdd1.cpp" />
+    <ClCompile Include="baidu2015internAdd2.cpp" />
+    <ClCompile Include="equal count.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.10-p1.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.4-p2.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.4-p1.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.4-p3.cpp" />
+    <ClCompile Include="MicroSoft2015\2015.4-p4.cpp" />
+    <ClCompile Include="MicroSoft2015\hiho1086.cpp" />
+    <ClCompile Include="MicroSoft2015\hiho1095.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="testbd.cpp" />
+    <ClCompile Include="TX1_20150906.cpp" />
+    <ClCompile Include="TX2_20150906.cpp" />
+    <ClCompile Include="TX3_20150906.cpp" />
+    <ClCompile Include="初赛1-1 AC代码.cpp" />
+    <ClCompile Include="初赛1-2 AC代码.cpp" />
+    <ClCompile Include="初赛1-3 AC代码.cpp" />
+    <ClCompile Include="初赛1.cpp" />
+    <ClCompile Include="初赛2.cpp" />
+    <ClCompile Include="初赛3.cpp" />
+    <ClCompile Include="资格赛1.cpp" />
+    <ClCompile Include="资格赛2.cpp" />
+    <ClCompile Include="2.cpp">
+      <Filter>sss</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MicroSoft2015\hiho1086.cpp">
-      <Filter>Source Files\MicroSoft</Filter>
-    </ClCompile>
-    <ClCompile Include="MicroSoft2015\hiho1095.cpp">
-      <Filter>Source Files\MicroSoft</Filter>
-    </ClCompile>
-    <ClCompile Include="MicroSoft2015\2015.10-p1.cpp">
-      <Filter>Source Files\MicroSoft</Filter>
-    </ClCompile>
-    <ClCompile Include="MicroSoft2015\2015.4-p2.cpp">
-      <Filter>Source Files\MicroSoft</Filter>
-    </ClCompile>
-    <ClCompile Include="MicroSoft2015\2015.4-p1.cpp">
-      <Filter>Source Files\MicroSoft</Filter>
-    </ClCompile>
-    <ClCompile Include="MicroSoft2015\2015.4-p3.cpp">
-      <Filter>Source Files\MicroSoft</Filter>
-    </ClCompile>
-    <ClCompile Include="MicroSoft2015\2015.4-p4.cpp">
-      <Filter>Source Files\MicroSoft</Filter>
-    </ClCompile>
-    <ClCompile Include="equal count.cpp">
-      <Filter>Source Files\splunk15intern</Filter>
-    </ClCompile>
-    <ClCompile Include="2.cpp">
-      <Filter>Source Files\splunk15intern</Filter>
-    </ClCompile>
-    <ClCompile Include="资格赛1.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-    <ClCompile Include="资格赛2.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-    <ClCompile Include="testbd.cpp">
-      <Filter>Source Files\Baidu</Filter>
-    </ClCompile>
-    <ClCompile Include="baidu2015intern1.cpp">
-      <Filter>Source Files\Baidu</Filter>
-    </ClCompile>
-    <ClCompile Include="baidu2015intern2.cpp">
-      <Filter>Source Files\Baidu</Filter>
-    </ClCompile>
-    <ClCompile Include="baidu2015internAdd1.cpp">
-      <Filter>Source Files\Baidu</Filter>
-    </ClCompile>
-    <ClCompile Include="baidu2015internAdd2.cpp">
-      <Filter>Source Files\Baidu</Filter>
-    </ClCompile>
-    <ClCompile Include="初赛1.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-    <ClCompile Include="初赛3.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-    <ClCompile Include="初赛2.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-<<<<<<< HEAD
-    <ClCompile Include="TX1_20150906.cpp">
-      <Filter>Source Files\腾讯2016校招在线笔试</Filter>
-    </ClCompile>
-    <ClCompile Include="TX2_20150906.cpp">
-      <Filter>Source Files\腾讯2016校招在线笔试</Filter>
-    </ClCompile>
-    <ClCompile Include="TX3_20150906.cpp">
-      <Filter>Source Files\腾讯2016校招在线笔试</Filter>
-=======
-    <ClCompile Include="初赛1-1 AC代码.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-    <ClCompile Include="初赛1-2 AC代码.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-    <ClCompile Include="初赛1-3 AC代码.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
->>>>>>> origin/master
-    </ClCompile>
+    <Filter Include="sss">
+      <UniqueIdentifier>{ad0721ba-0a6e-49b2-9c87-61a276630651}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
