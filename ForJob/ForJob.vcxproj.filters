@@ -99,14 +99,5 @@
     <ClCompile Include="TX3_20150906.cpp">
       <Filter>Source Files\腾讯2016校招在线笔试</Filter>
     </ClCompile>
-    <ClCompile Include="初赛1-1 AC代码.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-    <ClCompile Include="初赛1-2 AC代码.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
-    <ClCompile Include="初赛1-3 AC代码.cpp">
-      <Filter>Source Files\编程之美2015</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

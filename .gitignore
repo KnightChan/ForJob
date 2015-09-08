@@ -41,4 +41,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+<<<<<<< HEAD
 
+=======
+*.filters
+ForJob/ForJob.vcxproj
+ForJob/ForJob.vcxproj.filters
+ForJob.v12.suo
+ForJob.sdf
+*.vcxproj
+*.filters
+>>>>>>> origin/master
