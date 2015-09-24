@@ -6,6 +6,8 @@
 #include <unordered_map>
 #include <unordered_set>
 
+namespace chusai1_my{
+
 using namespace std;
 
 void mapadd(unordered_map<int, int> &m, int x)
@@ -82,4 +84,5 @@ int main()
 		}
 	}
 	return 0;
+}
 }

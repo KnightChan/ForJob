@@ -54,3 +54,9 @@ ForJob.sdf
 >>>>>>> origin/master
 *.suo
 *.sdf
+*.obj
+*.tlog
+*.pdb
+*.obj
+*.ipdb
+*.iobj

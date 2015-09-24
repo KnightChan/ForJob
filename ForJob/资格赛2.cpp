@@ -4,6 +4,8 @@
 #include <string.h>
 #include <unordered_map>
 
+namespace zigesai_2{
+
 using namespace std;
 
 int f[1001][1001];
@@ -89,4 +91,5 @@ int main_zigesai2()
 		*/
 	}
 	return 0;
+}
 }

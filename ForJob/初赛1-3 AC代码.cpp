@@ -3,6 +3,8 @@
 #include <algorithm>
 using namespace std;
 
+namespace chusai3_ac{
+
 int T,Case,n,m,i,j,k,s,t,u,v,ans;
 int prime[1000005],p[1000005],cnt[1000005],tot;
 int a[1005];
@@ -98,4 +100,6 @@ int main_chusai_ac1_3()
 		++Case;
 		printf("Case #%d: %d\n",Case,ans);
 	}
+	return 0;
+}
 }

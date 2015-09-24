@@ -2,6 +2,8 @@
 #include <iostream>
 #include <string.h>
 
+namespace zigesai1{
+
 using namespace std;
 
 struct Date
@@ -29,6 +31,7 @@ void get_date(char *s, Date &d)
 	d.month = which_month(month);
 }
 
+/*
 int main_zige1()
 {
 	int T;
@@ -45,4 +48,6 @@ int main_zige1()
 		printf("Case #%d: %d\n", i, ans);
 	}
 	return 0;
+}
+*/
 }

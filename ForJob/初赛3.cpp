@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string.h>
 #include <algorithm>
-
+namespace chusai3_my {
 using namespace std;
 
 /*==================================================*\
@@ -86,4 +86,5 @@ int main_bianchengmeichusai3()
 		printf("Case #%d: %d\n", tt, ans);
 	}
 	return 0;
+}
 }

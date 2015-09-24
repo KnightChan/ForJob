@@ -3,6 +3,8 @@
 #include <string.h>
 #include <iostream>
 #include <vector>
+
+namespace chusai2_ac{
 #define ll long long
 using namespace std;
 const int N = 1010;
@@ -81,4 +83,5 @@ int main_chusai_ac1_2(){
 		printf("Case #%d: %.2f\n", T, solve() );
 	}
 	return 0;
+}
 }

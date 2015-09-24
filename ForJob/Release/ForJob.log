@@ -1,15 +1,26 @@
-﻿Build started 2015/4/25 星期六 15:42:48 >_<|.
-     1>Project "D:\GitHub\ForJob\ForJob\ForJob.vcxproj" on node 2 (Build target(s)).
+﻿Build started 2015/9/15 星期二 22:00:22 >_<|.
+     1>Project "F:\GitHub\ForJob\ForJob\ForJob.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "初赛1.cpp"
-         初赛1.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt 20150915_3.cpp
+         20150915_3.cpp
+     1>20150915_3.cpp(28): warning C4018: '<': signed/unsigned mismatch
+     1>20150915_3.cpp(84): warning C4553: '==': operator has no effect; did you intend '='?
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitHub\ForJob\Release\ForJob.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GitHub\ForJob\Release\ForJob.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitHub\ForJob\Release\ForJob.lib" /MACHINE:X86 /SAFESEH Release\2.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GitHub\ForJob\Release\ForJob.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\GitHub\ForJob\Release\ForJob.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GitHub\ForJob\Release\ForJob.lib" /MACHINE:X86 /SAFESEH Release\2.obj
+         Release\20150915_1.obj
+         Release\20150915_2.obj
+         Release\20150915_3.obj
+         Release\20150915_4.obj
          Release\baidu2015intern1.obj
          Release\baidu2015intern2.obj
          Release\baidu2015internAdd1.obj
          Release\baidu2015internAdd2.obj
+         Release\baidu2016xiaozhao_1.obj
+         Release\baidu2016xiaozhao_2.obj
+         Release\baidu2016xiaozhao_3.obj
          "Release\equal count.obj"
+         Release\meituan2016_1.obj
+         Release\meituan2016_2.obj
          "Release\2015.10-p1.obj"
          "Release\2015.4-p2.obj"
          "Release\2015.4-p1.obj"
@@ -19,16 +30,25 @@
          Release\hiho1095.obj
          Release\test.obj
          Release\testbd.obj
+         Release\TX1_20150906.obj
+         Release\TX2_20150906.obj
+         Release\TX3_20150906.obj
+         "Release\初赛1-1 AC代码.obj"
+         "Release\初赛1-2 AC代码.obj"
+         "Release\初赛1-3 AC代码.obj"
          "Release\初赛1.obj"
          "Release\初赛2.obj"
          "Release\初赛3.obj"
          "Release\资格赛1.obj"
          "Release\资格赛2.obj"
          Generating code
+         0 of 674 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
          Finished generating code
-         ForJob.vcxproj -> D:\GitHub\ForJob\Release\ForJob.exe
-     1>Done Building Project "D:\GitHub\ForJob\ForJob\ForJob.vcxproj" (Build target(s)).
+         ForJob.vcxproj -> F:\GitHub\ForJob\Release\ForJob.exe
+     1>Done Building Project "F:\GitHub\ForJob\ForJob\ForJob.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.75
+Time Elapsed 00:00:02.45

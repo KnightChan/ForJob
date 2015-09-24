@@ -5,7 +5,7 @@
 #include <stdlib.h>
 using namespace std;
 
-namespace TX1_20150906{
+namespace TX3_20150906{
 
 int FindMost(vector<int> num)
 {

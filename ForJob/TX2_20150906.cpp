@@ -5,7 +5,7 @@
 #include <stdlib.h>
 using namespace std;
 
-namespace TX1_20150906{
+namespace TX2_20150906{
 
 void doit(vector<int> now, vector<vector<int> > &res)
 {

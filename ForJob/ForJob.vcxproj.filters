@@ -28,6 +28,12 @@
     <Filter Include="Source Files\腾讯2016校招在线笔试">
       <UniqueIdentifier>{fbe2a312-1732-4b9f-a9a8-798bdf2f0493}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\meituan2016">
+      <UniqueIdentifier>{e2f35161-ce68-48ac-8074-2727a30226f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\wangyigame2016">
+      <UniqueIdentifier>{d7ba7844-f64c-4b1c-903d-ccb562dcaf2d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -98,6 +104,42 @@
     </ClCompile>
     <ClCompile Include="TX3_20150906.cpp">
       <Filter>Source Files\腾讯2016校招在线笔试</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛1-1 AC代码.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛1-2 AC代码.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="初赛1-3 AC代码.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="meituan2016_1.cpp">
+      <Filter>Source Files\meituan2016</Filter>
+    </ClCompile>
+    <ClCompile Include="meituan2016_2.cpp">
+      <Filter>Source Files\meituan2016</Filter>
+    </ClCompile>
+    <ClCompile Include="baidu2016xiaozhao_1.cpp">
+      <Filter>Source Files\Baidu</Filter>
+    </ClCompile>
+    <ClCompile Include="baidu2016xiaozhao_2.cpp">
+      <Filter>Source Files\Baidu</Filter>
+    </ClCompile>
+    <ClCompile Include="baidu2016xiaozhao_3.cpp">
+      <Filter>Source Files\Baidu</Filter>
+    </ClCompile>
+    <ClCompile Include="20150915_1.cpp">
+      <Filter>Source Files\wangyigame2016</Filter>
+    </ClCompile>
+    <ClCompile Include="20150915_2.cpp">
+      <Filter>Source Files\wangyigame2016</Filter>
+    </ClCompile>
+    <ClCompile Include="20150915_4.cpp">
+      <Filter>Source Files\wangyigame2016</Filter>
+    </ClCompile>
+    <ClCompile Include="20150915_3.cpp">
+      <Filter>Source Files\wangyigame2016</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

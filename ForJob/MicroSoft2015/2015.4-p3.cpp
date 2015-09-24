@@ -8,6 +8,8 @@
 #include <math.h>
 #include <string.h>
 
+namespace ms2015_4_p3 {
+
 using namespace std;
 
 #define INF 0x03F3F3F3F
@@ -108,4 +110,6 @@ int main2015p3()
 	}
 	Dijkstra1(0);
 	cout << dist[n - 1] << endl;
+	return 0;
+}
 }

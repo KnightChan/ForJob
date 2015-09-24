@@ -4,6 +4,8 @@
 #include <algorithm>
 #include <vector>
 
+namespace chusai2_my{
+
 using namespace std;
 
 struct TriAngle
@@ -29,4 +31,5 @@ int main_chusai2()
 		printf("Case #%d: %d\n", tt, ans);
 	}
 	return 0;
+}
 }

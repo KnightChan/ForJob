@@ -15,6 +15,8 @@
 #include<string>
 #include<fstream>
 #include<iostream>
+
+namespace chusai1_ac{
 #define me(x) memset(x,0,sizeof(x))
 #define sy system("pause")
 #define maxn 100005
@@ -97,4 +99,5 @@ int main_chusai_ac1_1()
 	scanf("%d",&T);
 	for (i=1;i<=T;i++) solve(i);
 	return 0;
+}
 }

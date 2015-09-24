@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
       <Configuration>Debug</Configuration>
@@ -19,13 +19,13 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v120</PlatformToolset>
+    <PlatformToolset>v140</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v120</PlatformToolset>
+    <PlatformToolset>v140</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -77,11 +77,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2.cpp" />
+    <ClCompile Include="20150915_1.cpp" />
+    <ClCompile Include="20150915_2.cpp" />
+    <ClCompile Include="20150915_3.cpp" />
+    <ClCompile Include="20150915_4.cpp" />
     <ClCompile Include="baidu2015intern1.cpp" />
     <ClCompile Include="baidu2015intern2.cpp" />
     <ClCompile Include="baidu2015internAdd1.cpp" />
     <ClCompile Include="baidu2015internAdd2.cpp" />
+    <ClCompile Include="baidu2016xiaozhao_1.cpp" />
+    <ClCompile Include="baidu2016xiaozhao_2.cpp" />
+    <ClCompile Include="baidu2016xiaozhao_3.cpp" />
     <ClCompile Include="equal count.cpp" />
+    <ClCompile Include="meituan2016_1.cpp" />
+    <ClCompile Include="meituan2016_2.cpp" />
     <ClCompile Include="MicroSoft2015\2015.10-p1.cpp" />
     <ClCompile Include="MicroSoft2015\2015.4-p2.cpp" />
     <ClCompile Include="MicroSoft2015\2015.4-p1.cpp" />
